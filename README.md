@@ -20,4 +20,3 @@ Example Nlog.Config
   </rules>
 </nlog>
 
-----
