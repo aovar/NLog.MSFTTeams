@@ -19,3 +19,5 @@ Example Nlog.Config
     <logger name="*" minlevel="Info" writeTo="msftTeams" />
   </rules>
 </nlog>
+
+----
